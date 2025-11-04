@@ -1,3 +1,3 @@
 # GitHub-Demo
 Revising Github<br>
-Author - Nisarg Mistry
+Author - Nisarg M
